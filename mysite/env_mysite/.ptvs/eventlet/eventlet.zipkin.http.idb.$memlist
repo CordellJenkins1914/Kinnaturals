@@ -1,0 +1,15 @@
+__org_begin__
+__org_endheaders__
+six
+api
+unpatch
+httplib
+warnings
+_patched_begin
+_patched_endheaders
+HDR_SAMPLED
+HDR_TRACE_ID
+HDR_PARENT_SPAN_ID
+hex_str
+HDR_SPAN_ID
+patch

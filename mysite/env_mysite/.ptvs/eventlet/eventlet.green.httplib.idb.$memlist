@@ -1,0 +1,14 @@
+name
+socket
+client
+gethostbyname
+getfqdn
+patcher
+six
+gethostbyname_ex
+getnameinfo
+ssl
+getaddrinfo
+gethostbyaddr
+_GLOBAL_DEFAULT_TIMEOUT
+to_patch

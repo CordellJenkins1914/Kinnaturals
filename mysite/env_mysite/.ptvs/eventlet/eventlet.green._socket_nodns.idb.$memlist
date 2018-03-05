@@ -1,0 +1,14 @@
+socket
+__original_fromfd__
+timeout
+__all__
+fromfd
+__patched__
+__original_socketpair__
+socketpair
+sys
+eventlet
+__socket
+os
+greenio
+_GLOBAL_DEFAULT_TIMEOUT

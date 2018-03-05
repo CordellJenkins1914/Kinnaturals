@@ -1,0 +1,17 @@
+SERVER_SEND
+wsgi
+SERVER_RECV
+HDR_TRACE_ID
+HDR_SAMPLED
+api
+_sampler
+unpatch
+bool_or_none
+_patched_handle_one_response
+__original_handle_one_response__
+patch
+Sampler
+HDR_PARENT_SPAN_ID
+HDR_SPAN_ID
+random
+int_or_none

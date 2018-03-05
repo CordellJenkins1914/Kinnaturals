@@ -1,0 +1,15 @@
+_GLOBAL_DEFAULT_TIMEOUT
+gethostbyname_ex
+getaddrinfo
+patcher
+getfqdn
+DefaultSelector
+error
+gethostbyaddr
+getnameinfo
+sys
+gethostbyname
+__patched__
+__deleted__
+RLock
+select

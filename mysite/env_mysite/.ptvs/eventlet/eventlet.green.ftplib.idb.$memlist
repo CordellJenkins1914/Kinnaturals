@@ -1,0 +1,9 @@
+socket
+getaddrinfo
+getfqdn
+patcher
+getnameinfo
+gethostbyname
+gethostbyaddr
+_GLOBAL_DEFAULT_TIMEOUT
+gethostbyname_ex

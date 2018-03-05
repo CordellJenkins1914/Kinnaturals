@@ -1,0 +1,9 @@
+TTransport
+TBinaryProtocol
+AnnotationType
+Annotation
+TType
+BinaryAnnotation
+Endpoint
+fastbinary
+Span

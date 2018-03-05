@@ -1,0 +1,12 @@
+GSSAPI
+RAW
+socket
+absolute_import
+unicode_literals
+_write_table
+warnings
+PLAIN
+BytesIO
+AMQPLAIN
+SASL
+_get_gssapi_mechanism

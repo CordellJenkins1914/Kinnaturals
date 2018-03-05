@@ -1,0 +1,15 @@
+time
+slurp_properties
+gethostbyname
+getfqdn
+__patched__
+getnameinfo
+error
+gmtime
+getaddrinfo
+__time
+gethostbyaddr
+sleep
+_GLOBAL_DEFAULT_TIMEOUT
+RLock
+gethostbyname_ex

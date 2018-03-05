@@ -1,0 +1,6 @@
+absolute_import
+signal
+weakref_backports
+__all__
+Signal
+unicode_literals

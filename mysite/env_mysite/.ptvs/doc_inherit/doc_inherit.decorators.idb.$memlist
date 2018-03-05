@@ -1,0 +1,6 @@
+wraps
+isroutine
+DocInherit
+getmembers
+class_inherit_docstrings
+ismethod

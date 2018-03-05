@@ -1,0 +1,17 @@
+_GLOBAL_DEFAULT_TIMEOUT
+queue
+Queue
+__all__
+Full
+gethostbyname_ex
+getaddrinfo
+LifoQueue
+getfqdn
+Empty
+error
+gethostbyaddr
+getnameinfo
+gethostbyname
+__patched__
+RLock
+PriorityQueue
