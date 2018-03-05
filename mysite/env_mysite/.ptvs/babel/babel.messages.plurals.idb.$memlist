@@ -1,8 +1,0 @@
-LC_CTYPE
-default_locale
-get_plural
-PLURALS
-DEFAULT_PLURAL
-Locale
-_PluralTuple
-itemgetter

@@ -1,8 +1,0 @@
-wsgi
-api
-http
-greenthread
-_thrift
-client
-log
-patcher

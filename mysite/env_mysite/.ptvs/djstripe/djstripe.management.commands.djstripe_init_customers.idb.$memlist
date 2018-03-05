@@ -1,8 +1,0 @@
-Customer
-BaseCommand
-absolute_import
-unicode_literals
-Command
-division
-print_function
-get_subscriber_model

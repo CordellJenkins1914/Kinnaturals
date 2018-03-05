@@ -1,9 +1,0 @@
-AF_INET6
-dns
-socket
-inet_pton
-inet_ntop
-maybe_ord
-AF_INET
-is_multicast
-af_for_address

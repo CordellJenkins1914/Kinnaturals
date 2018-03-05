@@ -1,5 +1,0 @@
-absolute_import
-basic_return_t
-unicode_literals
-queue_declare_ok_t
-namedtuple

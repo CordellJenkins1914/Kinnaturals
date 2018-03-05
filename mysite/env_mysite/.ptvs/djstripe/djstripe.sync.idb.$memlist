@@ -1,7 +1,0 @@
-Customer
-absolute_import
-unicode_literals
-InvalidRequestError
-division
-print_function
-sync_subscriber

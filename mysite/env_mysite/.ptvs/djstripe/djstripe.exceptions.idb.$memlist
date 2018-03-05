@@ -1,6 +1,0 @@
-absolute_import
-print_function
-StripeObjectManipulationException
-division
-MultipleSubscriptionException
-unicode_literals

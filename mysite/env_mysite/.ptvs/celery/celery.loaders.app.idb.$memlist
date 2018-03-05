@@ -1,5 +1,0 @@
-absolute_import
-BaseLoader
-unicode_literals
-__all__
-AppLoader

@@ -1,0 +1,31 @@
+﻿{% extends "shop/base.html" %}
+{% load static from staticfiles %}
+{% block head_js %}
+  <script src="https://js.stripe.com/v2/" type="text/javascript"></script>
+  <script type="text/javascript">
+      //<![CDATA[
+      Stripe.publishableKey = '{{ publishable }}';
+      //]]>
+  </script>
+  <script type="text/javascript" src="{% static 'payment/js/stripe.js' %}"></script>
+{% endblock %}
+
+{% block title %}
+Checkout
+{% endblock %}
+
+{% block content %}
+    <div class="wrapper">
+ 
+  {% for key, value in form.errors.items %}
+      <p>{{ value }}</p>
+  {% endfor %}
+ 
+  <form role="form" action="{% url 'payment:charge' order.id %}" method="post" id="payment-form">{% csrf_token %}
+    {{ form.as_p }}
+    <br>
+    <input type="submit" value="Charge Me!" />
+  </form>
+ 
+</div>
+{% endblock %}

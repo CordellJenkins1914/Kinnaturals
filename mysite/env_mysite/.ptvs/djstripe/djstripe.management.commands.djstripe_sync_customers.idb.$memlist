@@ -1,8 +1,0 @@
-BaseCommand
-absolute_import
-unicode_literals
-Command
-get_subscriber_model
-print_function
-sync_subscriber
-division
